@@ -9,7 +9,7 @@
     "homepage": "https://laminas.dev",
     "license": "BSD-3-Clause",
     "require": {
-        "php": ">=7.4, <8.2"
+        "php": ">=7.4, <8.3"
     },
     "require-dev": {
         "ext-phar": "*",
